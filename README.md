@@ -97,6 +97,8 @@ On the client VM, open a browser and visit http://localhost.
 
 
 From the host, use the client VM’s IP (e.g., http://<client-IP>).
+## Screenshot
+![Webpage](images/screenshot.png)
 
 Project Structure
 
